@@ -5,7 +5,7 @@ This project demonstrates the use of basic html features including:
 - file structure
 - document structure
 - headings and paragraphs
-- ordered and unordere lists
+- ordered and unordered lists
 - absolute and relative links
 - comments
 - images
